@@ -25,6 +25,3 @@ end
 print("\nSetup complete. You should now have a chest on the left side and a monitor on the right side of your computer.\n")
 print("- The chest contains some items for testing purposes.\n")
 print("You can now proceed with the exercise!")
-
--- Run the `peripherals` command
-shell.run("peripherals")
