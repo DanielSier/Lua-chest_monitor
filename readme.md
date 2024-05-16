@@ -1,0 +1,1 @@
+`wget run https://raw.githubusercontent.com/DanielSier/Lua-chest_monitor/main/install.lua`
